@@ -5,3 +5,6 @@
 @import url("components/navbar.css");
 
 /* General for fonts and colors */
+body {
+  background-color: white;
+}
