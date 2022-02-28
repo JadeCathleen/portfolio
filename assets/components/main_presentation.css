@@ -1,0 +1,28 @@
+.main-presentation {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 10vh 10vw;
+  height: 70vh;
+}
+
+#personal-title {
+  margin-left: 5vw;
+}
+
+#summary {
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+  font-size: 110%;
+}
+
+#portrait {
+  padding: 1vw;
+  border-radius: 145px;
+  border: solid 1px rgb(173, 173, 173);
+}
+
+#portrait img {
+  width: 20vw;
+  border-radius: 130px;
+}

@@ -1,11 +1,23 @@
-/*Importing fonts*/
-@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Raleway:300,400,500,700");
 
 /* Importing all components file */
 @import url("components/navbar.css");
+@import url("components/main_presentation.css");
+@import url("components/buttons.css");
 
 /* General for fonts and colors */
 body {
   background-color: white;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Raleway', sans-serif !important;
 }
+
+h1 {
+  font-family: 'PT Serif', serif !important;
+}
+
+.gray {
+  color:rgb(173, 173, 173);
+}
+
+/* .container {
+  margin: 0 20vw;
+} */
