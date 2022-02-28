@@ -3,6 +3,7 @@
 @import url("components/navbar.css");
 @import url("components/main_presentation.css");
 @import url("components/buttons.css");
+@import url("components/projects.css");
 
 /* General for fonts and colors */
 body {
@@ -10,7 +11,7 @@ body {
   font-family: 'Raleway', sans-serif !important;
 }
 
-h1 {
+h1, h3, h4 {
   font-family: 'PT Serif', serif !important;
 }
 

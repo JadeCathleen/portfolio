@@ -1,0 +1,33 @@
+/* .blue-rectangle {
+  width: 60px;
+  height: 40px;
+  background-color: aquamarine;
+} */
+
+.projects-title {
+  margin-bottom: 10vh;
+}
+
+.projects-title h2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.project {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.project-infos {
+  margin-right: 5vw;
+}
+
+.role {
+  margin-bottom: 3vh;
+}
+
+.project {
+  margin-bottom: 10vh;
+}
