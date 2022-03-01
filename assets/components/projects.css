@@ -5,7 +5,7 @@
 } */
 
 .projects-title {
-  margin-bottom: 10vh;
+  margin-bottom: 12vh;
 }
 
 .projects-title h2 {
@@ -30,4 +30,10 @@
 
 .project {
   margin-bottom: 10vh;
+}
+
+.project-caroussel {
+  width: 50vw;
+  height: 50vh;
+  margin: auto 0;
 }
