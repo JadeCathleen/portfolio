@@ -11,3 +11,10 @@
   height: 10vh;
   margin: 0 auto;
 }
+
+.download-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 4vh;
+}
