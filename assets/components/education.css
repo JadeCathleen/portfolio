@@ -1,0 +1,13 @@
+.subcategory {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.separator {
+  background-color: rgb(206, 204, 204);
+  width: 3px;
+  height: 10vh;
+  margin: 0 auto;
+}

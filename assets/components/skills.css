@@ -2,7 +2,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin: 10vh 15vw;
+  margin: 10vh 10vw;
   flex-wrap: wrap;
 }
 
@@ -15,4 +15,8 @@
 
 .language img {
   height: 8vh;
+}
+
+.language p {
+  margin-top: 2vh;
 }
