@@ -4,6 +4,7 @@
 @import url("components/main_presentation.css");
 @import url("components/buttons.css");
 @import url("components/projects.css");
+@import url("components/skills.css");
 
 /* General for fonts and colors */
 body {
@@ -21,6 +22,17 @@ p {
 
 .gray {
   color:rgb(173, 173, 173);
+}
+
+.category-title {
+  margin-bottom: 12vh;
+  margin-top: 12vh;
+}
+
+.category-title h2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /* .container {

@@ -4,16 +4,6 @@
   background-color: aquamarine;
 } */
 
-.projects-title {
-  margin-bottom: 12vh;
-}
-
-.projects-title h2 {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
 .project {
   display: flex;
   align-items: center;
