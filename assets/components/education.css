@@ -5,6 +5,10 @@
   flex-direction: column;
 }
 
+.subcategory h3 {
+  margin-top: 2vh;
+}
+
 .separator {
   background-color: rgb(206, 204, 204);
   width: 3px;
