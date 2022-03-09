@@ -25,10 +25,6 @@
   color: rgb(173, 173, 173) !important;
 }
 
-.navbar-collapse .show {
-  align-items: flex-end;
-}
-
 @media (max-width: 991px) {
   .navbar-light .navbar-text a {
     display: none!important;
