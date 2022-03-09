@@ -27,3 +27,19 @@
   height: 50vh;
   margin: auto 0;
 }
+
+@media (max-width: 991px) {
+  .project {
+    flex-direction: column;
+    margin-bottom: 50px;
+  }
+  .project-infos {
+    margin-right: 0;
+    margin-bottom: 50px;
+  }
+  .project-caroussel {
+    width: 600px;
+    height: 320px;
+    margin: auto 0;
+  }
+}

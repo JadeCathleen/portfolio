@@ -40,3 +40,10 @@ p {
 /* .container {
   margin: 0 20vw;
 } */
+
+@media (max-width: 991px) {
+  .category-title {
+    margin-bottom: 70px;
+    margin-top: 100px;
+  }
+}
