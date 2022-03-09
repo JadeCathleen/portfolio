@@ -20,3 +20,23 @@
 .language p {
   margin-top: 2vh;
 }
+
+@media (max-width: 991px) {
+  .programming-languages {
+    margin: 50px 50px;
+    justify-content: center;
+  }
+
+  .language {
+    margin: 0 10px;
+  }
+  .language img {
+    height: 5vh;
+    margin-bottom: 10px;
+  }
+  .language p {
+    font-size: smaller;
+    margin-top: 0;
+  }
+
+}
