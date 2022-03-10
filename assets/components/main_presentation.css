@@ -23,7 +23,9 @@
 }
 
 #portrait img {
-  width: 20vw;
+  width: 275px;
+  height: 400px;
+  object-fit: cover;
   border-radius: 130px;
 }
 
