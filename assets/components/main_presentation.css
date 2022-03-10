@@ -42,6 +42,10 @@
     margin-bottom: 30px;
   }
 
+  #portrait img {
+    height: 370px;
+  }
+
   #personal-title {
     display: flex;
     flex-direction: column;
