@@ -42,4 +42,10 @@
     height: 320px;
     margin: auto 0;
   }
+  .project-infos h3 {
+    font-size: 200%;
+  }
+  .role {
+    font-size: 170%;
+  }
 }

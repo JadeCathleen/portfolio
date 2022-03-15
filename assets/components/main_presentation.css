@@ -55,11 +55,12 @@
   }
 
   #personal-title h1 {
-    font-size: 200%;
+    font-size: 250%;
   }
 
   #summary {
     margin-top: 30px;
     margin-bottom: 30px;
+    font-size: 150%;
   }
 }

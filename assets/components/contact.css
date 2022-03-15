@@ -36,3 +36,16 @@
 .phone-number {
   font-family: 'Roboto', sans-serif;
 }
+
+@media (max-width: 991px) {
+  .mail {
+    font-size: 150%;
+  }
+  .phone-number {
+    font-size: 170%;
+  }
+
+  .social-networks a {
+    font-size: 200%;
+  }
+}
